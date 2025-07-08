@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Aj'
 description 'fivem extra menu script for qb-core framework'
-version '1.0.1'
+version '1.1.0'
 
 client_scripts {
     'client.lua'

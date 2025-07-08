@@ -1,5 +1,6 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 
+
 QBCore.Functions.CreateCallback('qb-extra:server:CanUseMenu', function(source, cb)
     local Player = QBCore.Functions.GetPlayer(source)
     if not Player then cb(false) return end
