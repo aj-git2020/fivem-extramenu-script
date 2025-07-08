@@ -1,6 +1,6 @@
 Config = {}
 
--- Notification system: 'qb', 'ox', 'custom' (you can extend)
+-- Notification system: 'qb', 'ox', 'custom' 
 Config.NotifySystem = 'qb' 
 
 -- Notification settings (customize durations, types, etc.)
