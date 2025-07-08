@@ -20,7 +20,7 @@ shared_scripts {
 }
 
 dependencies {
-    'qb-core',
+    'qb-core'
 }
 
 lua54 'yes'
