@@ -1,7 +1,7 @@
 Config = {}
 
 -- Notification system: 'qb', 'ox', 'custom' (you can extend)
-Config.NotifySystem = 'dd' 
+Config.NotifySystem = 'qb' 
 
 -- Notification settings (customize durations, types, etc.)
 Config.NotifyDuration = 5000
