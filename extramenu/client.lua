@@ -66,7 +66,7 @@ local function OpenExtraMenu(veh)
     lib.showContext('qb_extra_menu')
 end
 
--- Open the livery selection menu
+
 function OpenLiveryMenu(veh, count)
     local items = {}
     for i = 0, count - 1 do
